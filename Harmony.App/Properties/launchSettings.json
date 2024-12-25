@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Harmony.App (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Harmony.App (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
